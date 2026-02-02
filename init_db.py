@@ -1,7 +1,7 @@
 import sqlite3
 
 # Sambung ke DB (akan auto cipta kalau tak wujud)
-conn = sqlite3.connect("elabkpd.db")
+conn = sqlite3.connect("kpdkvdsa_25e-labkpd")
 cur = conn.cursor()
 
 # Jadual Pelajar
